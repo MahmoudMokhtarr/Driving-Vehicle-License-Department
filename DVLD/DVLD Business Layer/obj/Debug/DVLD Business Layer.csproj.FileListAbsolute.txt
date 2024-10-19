@@ -1,0 +1,18 @@
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\bin\Debug\DVLD Business Layer.dll
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\bin\Debug\DVLD Business Layer.pdb
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CopyComplete
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\obj\Debug\DVLD Business Layer.dll
+C:\Users\1\Desktop\Programing\C#\DVLD Business Layer\obj\Debug\DVLD Business Layer.pdb
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\bin\Debug\DVLD Business Layer.dll
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\bin\Debug\DVLD Business Layer.pdb
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CopyComplete
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\obj\Debug\DVLD Business Layer.dll
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Business Layer\obj\Debug\DVLD Business Layer.pdb

@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Desktop\Programing\C#\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.pdb
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.dll
+C:\Users\1\Downloads\DVLD\DVLD\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.pdb
